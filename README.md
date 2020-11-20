@@ -19,9 +19,10 @@ login: 123
 pass: 123
 pass2: 123
 
-ests on php 7.4
 
 **Setup:**
+*(tests on php 7.4)*
+ - download latest release - https://github.com/yentencoin/Yenten-Crypto-Web-Notepad-Online-PHP/releases
  - unzip
  - create new folder on server and password protect (sample: https://stackoverflow.com/questions/5229656/password-protecting-a-directory-and-all-of-its-subfolders-using-htaccess)
  - upload files to server
