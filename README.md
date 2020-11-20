@@ -18,3 +18,12 @@
 login: 123
 pass: 123
 pass2: 123
+
+ests on php 7.4
+
+**Setup:**
+ - unzip
+ - create new folder on server and password protect (sample: https://stackoverflow.com/questions/5229656/password-protecting-a-directory-and-all-of-its-subfolders-using-htaccess)
+ - upload files to server
+ - open 1.php file
+ - enter pass (the first time you enter a password, files will be encrypted with this password)
